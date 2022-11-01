@@ -1,0 +1,99 @@
+{
+  "player_build_data": [
+    {
+      "type": "playerBuildTimingData",
+      "msg": {
+        "build_event_id": "21c28727b10c4414a963b9dc5e85aa23",
+        "build_player": 13967,
+        "preprocess_player": 306,
+        "produce_player_script_assemblies": 5590,
+        "build_scripts_dlls": 880,
+        "writing_asset_files": 1163,
+        "postprocess_built_player": 1322,
+        "node_summary_table": [
+          {
+            "name": "Csc",
+            "duration": 616
+          },
+          {
+            "name": "Csc",
+            "duration": 554
+          },
+          {
+            "name": "Csc",
+            "duration": 573
+          },
+          {
+            "name": "Csc",
+            "duration": 888
+          },
+          {
+            "name": "Csc",
+            "duration": 860
+          },
+          {
+            "name": "Csc",
+            "duration": 141
+          },
+          {
+            "name": "Csc",
+            "duration": 365
+          },
+          {
+            "name": "Csc",
+            "duration": 575
+          },
+          {
+            "name": "Csc",
+            "duration": 210
+          },
+          {
+            "name": "Csc",
+            "duration": 724
+          },
+          {
+            "name": "Csc",
+            "duration": 569
+          },
+          {
+            "name": "Csc",
+            "duration": 685
+          },
+          {
+            "name": "Csc",
+            "duration": 660
+          },
+          {
+            "name": "Csc",
+            "duration": 585
+          },
+          {
+            "name": "Csc",
+            "duration": 577
+          },
+          {
+            "name": "Csc",
+            "duration": 125
+          },
+          {
+            "name": "Csc",
+            "duration": 165
+          },
+          {
+            "name": "Csc",
+            "duration": 318
+          },
+          {
+            "name": "Csc",
+            "duration": 151
+          },
+          {
+            "name": "Csc",
+            "duration": 873
+          }
+        ]
+      },
+      "version": 1
+    }
+  ]
+}
