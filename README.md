@@ -1,10 +1,4 @@
-# Hungry-Shark
-
-
-Write a short paragraph telling us your overall thinking and approach to this game. Please 
-include details of issues, solutions, or areas where further improvement could be made. 
-Briefly discuss your design choices, and how you felt they respond to the demographic we 
-are looking to attract.
+My thoughts on # Hungry-Shark
 
 Actually, it took me a while to find suitable 3D models and figure out how to import them into Unity. Usually I was given art assets and asked to add code on it. 
 So this was a quite novel and fun experience for me.
