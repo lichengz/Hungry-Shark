@@ -13,7 +13,7 @@ The following are a few programming patterns I impltemented in the game:
 The fish spwans randomly from three pre-defined locations and object pool was used.
 Commaned pattern was implemented for moving the shark by key press.
 Observer pattern was implemented in many places for event trigger, such as onFishDie event.
-Single pattern was planed to implemented for ScoreManger, but unfortunately not finished. So I decided to remove it in the end.
+Singleton pattern was planed to implemented for ScoreManger, but unfortunately not finished. So I decided to remove it in the end.
 
 Future impveoment:
 Instead of swimming straight across, fish can swim along a curve, implemented using Bezier curve.
